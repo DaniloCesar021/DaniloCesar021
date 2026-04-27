@@ -1,6 +1,6 @@
 # Olá, eu sou o Danilo Cesar! 👋
 
-[cite_start]Desenvolvedor Front-end focado na construção de aplicações escaláveis e de alta performance[cite: 2, 4]. [cite_start]Atualmente no último período de Análise e Desenvolvimento de Sistemas na UNISUAM[cite: 24].
+[cite_start]Desenvolvedor Front-end focado na construção de aplicações escaláveis e de alta performance[cite: 4]. [cite_start]Atualmente no último período de Análise e Desenvolvimento de Sistemas na UNISUAM[cite: 24].
 
 ### 🚀 Especialidade: Front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -24,9 +24,9 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloCesar021&layout=compact&theme=dark)](https://github.com/DaniloCesar021)
 
 ### 📂 Trajetória Profissional
-* [cite_start]**Front-end Specialist:** Experiência em e-commerce e sistemas de gestão (inventário e estoque)[cite: 15, 21, 22].
-* [cite_start]**Clean Code:** Foco em arquitetura de componentes reutilizáveis e código organizado[cite: 16, 18].
-* [cite_start]**APIs:** Integração e consumo de serviços RESTful[cite: 17].
+* [cite_start]**Front-end Specialist**: Experiência prática em e-commerce e sistemas de gestão[cite: 15, 21, 22].
+* [cite_start]**Clean Code**: Foco em arquitetura de componentes reutilizáveis e código organizado[cite: 16, 18].
+* [cite_start]**APIs**: Integração e consumo de serviços RESTful[cite: 5, 17].
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilo-cesar-39aa44217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-cesar-39aa44217)
