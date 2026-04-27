@@ -1,6 +1,6 @@
 # Olá, eu sou o Danilo Cesar! 👋
 
-Desenvolvedor Front-end focado na construção de aplicações escaláveis e de alta performance. Atualmente no último período de Análise e Desenvolvimento de Sistemas na UNISUAM.
+Desenvolvedor Front-end focado na construção de aplicações escaláveis e de alta performance.
 
 ### 🚀 Especialidade: Front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
