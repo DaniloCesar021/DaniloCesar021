@@ -35,11 +35,7 @@ QA Engineer e Desenvolvedor Front-End. Crio automação de testes de ponta a pon
 
 ---
 
-### Estatísticas
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DaniloCesar021&show_icons=true&theme=dark)](https://github.com/DaniloCesar021)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloCesar021&layout=compact&theme=dark)](https://github.com/DaniloCesar021)
-
+###
 ### Trajetória Profissional
 * **QA Software Engineer @ Tickets Flow**: aprovo ou bloqueio os deploys entre dev, staging e produção em uma plataforma de ingressos e criei do zero a automação de testes (Cypress, Jest, k6).
 * **Front-end Developer @ Easy Communication & Technology**: e-commerces com Angular e TypeScript, bibliotecas de componentes e integração com APIs RESTful.
